@@ -93,3 +93,11 @@ table, th, td {
 
     color: black;
 }
+
+#special-feature {
+    background-color: #fde3a7;
+
+    border-color: #f39c12;
+
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
