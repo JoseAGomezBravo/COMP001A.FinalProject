@@ -69,3 +69,27 @@ table, th, td {
     border: 1px solid black;
 
 }
+
+.feature-card {
+    border: 2px solid black;
+
+    padding: 20px;
+
+    margin: 20px;
+
+    background-color: bisque;
+}
+
+.feature-card h3 {
+    font-size: 20px;
+
+    margin-bottom: 10px;
+
+    color: brown;
+}
+
+.feature-card p {
+    margin-bottom: 10px;
+
+    color: black;
+}
