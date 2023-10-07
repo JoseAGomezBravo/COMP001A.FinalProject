@@ -12,7 +12,9 @@ aside {
     background-color: sandybrown;
 
     margin-left: 10px;
-}
+}/**Allows me to create side bar for nav bar**/
+
+
 
 h2 {
     text-align: center;
@@ -20,7 +22,7 @@ h2 {
 
 body {
     background-color: antiquewhite;
-}
+} /** changes page to single color**/
 
 #nav_list ul {
     list-style-type: none;
@@ -49,7 +51,7 @@ body {
     font-weight: bold;
     
     color: black;
-}
+} /**Layout for nav tabs**/
 
 footer {
     margin-top: 200px;
